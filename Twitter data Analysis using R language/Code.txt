@@ -1,11 +1,6 @@
 require(twitteR)
 require(RCurl)
 
-consumer_key <- 'nZFwElAdKch4MIfsVHOpJbzco'
-consumer_secret <- 'PP6IPNmvi3GotZp8p8sWcY0gqj4B5wbtbkjxDpY2HqXKSgXrja'
-access_token <- '749654891761577984-UOtyJzb5vl2ZPFiJpos7Pu9IL02cvEx'
-access_secret <- 'rrRxxyFSUPnalusgDt4xRU0beGR2XHQp1K9vM8cAekRhO'
-
 setup_twitter_oauth(consumer_key,consumer_secret,access_token,access_secret)
 
 #Extract Tweets
