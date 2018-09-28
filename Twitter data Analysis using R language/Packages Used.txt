@@ -1,0 +1,7 @@
+Twitter
+RCurl
+reshape
+plyr
+stringR
+plotrix
+tm
